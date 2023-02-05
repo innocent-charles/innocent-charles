@@ -1,5 +1,4 @@
-- Hi, I'm a Indiepreneur, AI & ML Software Engineer and Growth hacker spending most of my time building great tech products that move humanity forward.
-- I like building tech stuffs, collaborating on ambitious projects, and hanging around smart people.
+- Hi, I'm an Indiepreneur, AI & ML Software Engineer, and Growth hacker with the prime directive in using technology to make a positive contribution to humanity. I possess a background in software engineering and am well-versed in data architecture, back-end, and AI technologies which allows me to drive business values. Let's connect if you want to do the same and share lollipop moments.
      - Here is where to find me :
        - [Linkedin](https://www.linkedin.com/in/innocent-charles/)
   
