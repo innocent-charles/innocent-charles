@@ -1,10 +1,10 @@
-- I'm an AI veteran, Hardcore AI & MLOps Engineer, and hands-on experience in the business of AI, co-founded and lead AI/ML operations at Sartify (sartify.com) as Chief AI Officer to help the business transform into exponential growth with AI and Data, -- the inflection point where business is able to unlock the trapped value living inside the business to achieve superior growth, business transformation and leaping ahead of competitors or taking blue ocean approach.
+- I'm AI veteran, Trailblazer and Hardcore AI & MLOps engineer in the ares of recommendation systems, retrival, statistical, computer vision and language modeling . Over the years, I have spent time building high-quality serious production-grade AI systems in various business domains at Sartify, LLC. I am deeply passionate, energetic, and curious in combining Software AI/ML Engineering, Operation Research, Customer Experience, and Strategic design thinking to solve real-world tangible business problems to bring impacts. 
 
-- My prime directive is in creating and deploying robust, scalable and advanced AI technologies at scale to solve most complex business challenges for SME and Fortune 1000 companies.
+- I am curious minded inspired by nature and the future, and I value learning, discovery, and making a difference in the world.
 
-- I have grown up in software engineering, back-end engineering, data, and applied artificial intelligence background, creative thinker and growth hacker in terms of data and business perceptive, love seeing business values out of data and AI technology. 
+- So, Let's connect, if you want to do the same.......
 
-- Generally : I am curiously minded and inspired by nature and the future and I value learning, discovery, and making a difference in the world.
+www.sartify.com | AI Consultation, Research & Products Company.
      - Here is where to find me :
        - [Linkedin](https://www.linkedin.com/in/innocent-charles/)
   
