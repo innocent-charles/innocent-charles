@@ -9,4 +9,13 @@ www.sartify.com | AI Consultation, Research & Products Company.
 <!---
 innocent-charles/innocent-charles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+<p align="right">
+<img src="https://github-readme-stats.vercel.app/api?username=innocent-charles&show_icons=true&hide_border=true" align="right"></p> 
 --->
+
+
+
+
+
+
